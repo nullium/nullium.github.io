@@ -177,35 +177,35 @@ a:hover {
 }
 
 .nullium-facebook-icon {
-    background:transparent url('../img/social-icons/social-icons.png') no-repeat 0px 0px;
+    background:transparent url('../img/social-icons/grey-facebook-icon.png') no-repeat;
 }
 
 .nullium-facebook-icon:hover {
-    background-position: 0px -24px;
+    background-image: url('../img/social-icons/facebook-icon.png');
 }
 
 .nullium-google-plus-icon {
-    background:transparent url('../img/social-icons/social-icons.png') no-repeat -24px 0px;
+    background:transparent url('../img/social-icons/grey-google-plus-icon.png') no-repeat;
 }
 
 .nullium-google-plus-icon:hover {
-    background-position: -24px -24px;
+    background-image: url('../img/social-icons/google-plus-icon.png');
 }
 
 .nullium-twitter-icon {
-    background:transparent url('../img/social-icons/social-icons.png') no-repeat -48px 0px;
+    background:transparent url('../img/social-icons/grey-twitter-icon.png') no-repeat;
 }
 
 .nullium-twitter-icon:hover {
-    background-position: -48px -24px;
+    background-image: url('../img/social-icons/twitter-icon.png');
 }
 
 .nullium-rss-icon {
-    background:transparent url('../img/social-icons/social-icons.png') no-repeat -72px 0px;
+    background:transparent url('../img/social-icons/grey-rss-icon.png') no-repeat;
 }
 
 .nullium-rss-icon:hover {
-    background-position: -72px -24px;
+    background-image: url('../img/social-icons/rss-icon.png');
 }
 
 .nullium-top-hr {
