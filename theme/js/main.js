@@ -22,7 +22,7 @@ $('.nullium-creations-screenshots>a, .nullium-creations-screenshots-vertical>a')
     }
 });
 
-new Image().src = '../img/social-icons/facebook-icon.png';
-new Image().src = '../img/social-icons/google-plus-icon.png';
-new Image().src = '../img/social-icons/twitter-icon.png';
-new Image().src = '../img/social-icons/rss-icon.png';
+new Image().src = 'img/social-icons/facebook-icon.png';
+new Image().src = 'img/social-icons/google-plus-icon.png';
+new Image().src = 'img/social-icons/twitter-icon.png';
+new Image().src = 'img/social-icons/rss-icon.png';
