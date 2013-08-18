@@ -1,0 +1,333 @@
+body{
+    padding-left: 0px;
+    padding-right: 0px;
+    height: 100%;
+    font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif;
+    line-height: 1.5;
+    font-size: 100%;
+}
+
+a {
+    color: #297BAA;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #297BAA;
+    text-decoration: underline;
+}
+
+.nullium-post-title a {
+    color: #666666;
+    font-weight: normal;
+    letter-spacing: 1px;
+}
+
+.nullium-post-title a:hover {
+    color: #999999;
+}
+
+.nullium-post-content {
+    letter-spacing: 1px;
+}
+
+.nullium-post-footer {
+    font-size: 12px;
+    color: #cccccc;
+    border-top: 1px #eeeeee dashed;
+    margin-top: 10px;
+    padding-top: 3px;
+}
+
+.nullium-post-footer a {
+    color: #999999;
+}
+
+.nullium-page-content {
+    letter-spacing: 1px;
+}
+
+.nullium-archives-item {
+    margin-bottom: 10px;
+}
+
+.nullium-archives-item-footer {
+    font-size: 12px;
+    color: #cccccc;
+}
+
+.nullium-archives-item-footer a {
+    color: #999999;
+}
+
+.nullium-archives-year {
+    margin-bottom: 20px;
+}
+
+.nullium-fixed {
+    margin-right: auto;
+    margin-left: auto;
+    max-width: 800px;
+    min-width: 400px;
+    padding: 0 20px 0 20px;
+}
+
+.nullium-fill {
+    margin: 0 0 0 0;
+    padding: 0 0 0 0;
+    width: auto;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.nullium-dark {
+    background: #ff4C54;
+}
+
+.nullium-light {
+    background: #ffffff;
+}
+
+.nullium-top-bar {
+    width: 100%;
+    display: block;
+}
+
+.nullium-top-bar-language-list {
+    text-align: right;
+    padding: 5px 13px 5px 13px;
+    color: #aaaaaa;
+}
+
+.nullium-top-bar-language-list a {
+    color: #eeeeee;
+}
+
+.nullium-header {
+    display: block;
+    padding-top: 10px;
+}
+
+.nullium-header a {
+    color: #555555;
+}
+
+.nullium-header a:hover {
+    text-decoration: none;
+    color: #555555;
+}
+
+.nullium-logo {
+    margin: 15px 0px 25px 0px;
+}
+
+.nullium-nav {
+    display: block;
+    font-size: 16px;
+    padding: 10px 0px 5px 0px;
+    line-height: 1;
+    letter-spacing: 1px;
+    text-align: right;
+}
+
+.nullium-nav ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+}
+
+.nullium-nav li {
+    display: inline;
+    list-style-type: none;
+    padding-right: 3px;
+    padding-left: 3px;
+}
+
+.nullium-nav li a {
+    padding-right: 2px;
+    padding-left: 2px;
+    color: #333333;
+}
+
+.nullium-nav li a:hover {
+    text-decoration: none;
+    color: #666666;
+}
+
+.nullium-nav-active-item {
+}
+
+.nullium-nav-hover-item {
+    border-bottom: 3px #7A9BC1 solid;
+    padding-bottom: 1px;
+}
+
+.nullium-nav-social-icon-list {
+    display: block;
+    float: right;
+    margin: 10px 3px 10px 3px;
+}
+
+.nullium-nav-social-icon-list a {
+    text-indent: -3333px;
+}
+
+.nullium-nav-social-icon-list ul {
+    list-style: none;
+}
+
+.nullium-nav-social-icon-list li {
+    float: left;
+    padding-right: 3px;
+    padding-left: 3px;
+    color: #eeeeee;
+}
+
+.nullium-social-icon {
+    display: block;
+    width: 24px;
+    height: 24px;
+}
+
+.nullium-facebook-icon {
+    background:transparent url('../img/social-icons/grey-facebook-icon.png') no-repeat;
+}
+
+.nullium-facebook-icon:hover {
+    background-image: url('../img/social-icons/facebook-icon.png');
+}
+
+.nullium-google-plus-icon {
+    background:transparent url('../img/social-icons/grey-google-plus-icon.png') no-repeat;
+}
+
+.nullium-google-plus-icon:hover {
+    background-image: url('../img/social-icons/google-plus-icon.png');
+}
+
+.nullium-twitter-icon {
+    background:transparent url('../img/social-icons/grey-twitter-icon.png') no-repeat;
+}
+
+.nullium-twitter-icon:hover {
+    background-image: url('../img/social-icons/twitter-icon.png');
+}
+
+.nullium-rss-icon {
+    background:transparent url('../img/social-icons/grey-rss-icon.png') no-repeat;
+}
+
+.nullium-rss-icon:hover {
+    background-image: url('../img/social-icons/rss-icon.png');
+}
+
+.nullium-top-hr {
+    margin: 0px 0 20px 0;
+}
+
+.nullium-blog-archive-link {
+    text-align: right;
+}
+
+.nullium-bottom-bar {
+    width: 100%;
+    color: #cccccc;
+    padding-top: 10px;
+}
+
+.nullium-bottom-bar h4 {
+    color: #cccccc;
+}
+
+.nullium-footer-block {
+    padding: 5px 5px 5px 5px;
+    font-size: 14px;
+}
+
+.nullium-footer-block a {
+    color: #ffffff;
+}
+
+.nullium-footer-icon-item {
+    padding-top: 2px;
+    padding-bottom: 2px;
+    white-space: nowrap;
+}
+
+.nullium-footer-icon-item span {
+    padding-left: 33px;
+    display: block;
+}
+
+.nullium-creations-title {
+    padding-top: 10px;
+}
+
+.nullium-creations-promo-image {
+    padding-bottom: 10px;
+}
+
+.nullium-creations-screenshots {
+    min-width: 250px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.nullium-creations-screenshots img {
+    width: 120px;
+    height: 200px;
+    border: 0px;
+    padding: 1px;
+}
+
+.nullium-creations-screenshots-vertical img {
+    width: 200px;
+    height: 120px;
+    border: 0px;
+    padding: 1px;
+}
+
+.nullium-creations-descriptions {
+    padding-left: 3px; 
+}
+
+.nullium-creations-get-it-on-google-play-badge {
+    padding: 15px 0px 30px 0px;
+    color: #cccccc;
+}
+
+.nullium-creations-promo-text {
+    font-style: italic; 
+    padding-top: 2px;
+}
+
+.nullium-larger-arrow-sign {
+    font-size: 120%;
+}
+
+.nullium-copyright {
+    padding-top: 20px;
+    font-size: 12px;
+    text-align: center;
+    color: #aaaaaa;
+    letter-spacing: 1px;
+}
+
+.nullium-like-box {
+    padding-top: 20px;
+    text-align: center;
+}
+
+.nullium-bottom-nav {
+    color: #aaaaaa;
+    font-size: 12px;
+    padding-top: 40px;
+    text-align: center;
+}
+
+.nullium-bottom-nav a {
+    padding-right: 6px;
+    padding-left: 6px;
+    color: #cccccc;
+}
