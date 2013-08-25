@@ -17,6 +17,19 @@ a:hover {
     text-decoration: underline;
 }
 
+blockquote p {
+    font-size: 14px;
+    font-weight: normal;
+    line-height: 1.5;
+}
+
+.nullium-blog-post-image-120 img {
+    width: 120px;
+    height: auto;
+    border: 0px;
+    padding: 14px;
+}
+
 .nullium-post-title a {
     color: #666666;
     font-weight: normal;
