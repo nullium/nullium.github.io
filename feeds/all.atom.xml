@@ -1,15 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>nullium</title><link href="http://nullium.com/" rel="alternate"></link><link href="http://nullium.com/feeds/all.atom.xml" rel="self"></link><id>http://nullium.com/</id><updated>2013-08-25T23:00:00+08:00</updated><entry><title>Style Note 2.0 Released</title><link href="http://nullium.com/blog/style-note-2.0-released/" rel="alternate"></link><updated>2013-08-25T23:00:00+08:00</updated><author><name>null</name></author><id>tag:nullium.com,2013-08-25:blog/style-note-2.0-released/</id><summary type="html">&lt;p&gt;StyleNote 2.0 has been released!&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>nullium</title><link href="http://nullium.com/" rel="alternate"></link><link href="http://nullium.com/feeds/all.atom.xml" rel="self"></link><id>http://nullium.com/</id><updated>2013-08-25T23:00:00+08:00</updated><entry><title>StyleNote 2.0 Released</title><link href="http://nullium.com/blog/stylenote-2.0-released/" rel="alternate"></link><updated>2013-08-25T23:00:00+08:00</updated><author><name>null</name></author><id>tag:nullium.com,2013-08-25:blog/stylenote-2.0-released/</id><summary type="html">&lt;p&gt;StyleNote 2.0 has been released!&lt;/p&gt;
 &lt;p&gt;As a major update, there are many new features and improvements. The main interface has also been redesigned.  &lt;/p&gt;
-&lt;div class="nullium-blog-post-center-block"&gt;
-&lt;a class="nullium-blog-post-image-120" href="../../static/images/stylenote/ss1.png"&gt;&lt;img src="../../static/images/stylenote/ss1.png" alt="" /&gt;&lt;/a&gt;
+&lt;p&gt;&lt;a class="nullium-blog-post-image-120" href="../../static/images/stylenote/ss1.png"&gt;&lt;img src="../../static/images/stylenote/ss1.png" alt="" /&gt;&lt;/a&gt;
 &lt;a class="nullium-blog-post-image-120" href="../../static/images/stylenote/ss2.png"&gt;&lt;img src="../../static/images/stylenote/ss2.png" alt="" /&gt;&lt;/a&gt;
 &lt;a class="nullium-blog-post-image-120" href="../../static/images/stylenote/ss3.png"&gt;&lt;img src="../../static/images/stylenote/ss3.png" alt="" /&gt;&lt;/a&gt;
 &lt;a class="nullium-blog-post-image-120" href="../../static/images/stylenote/ss4.png"&gt;&lt;img src="../../static/images/stylenote/ss4.png" alt="" /&gt;&lt;/a&gt;
 &lt;a class="nullium-blog-post-image-120" href="../../static/images/stylenote/ss5.png"&gt;&lt;img src="../../static/images/stylenote/ss5.png" alt="" /&gt;&lt;/a&gt;
-&lt;/div&gt;
-
-&lt;p&gt;&lt;br/&gt;
+&lt;br/&gt;&lt;br/&gt;
 Better backup options, note search function, bullet point support, style templates, and dropbox cloud storage support are the key additions in this update. I am too tired right now to describe the new features one by one, but at the end of this blog post you can find the complete changelog.&lt;/p&gt;
 &lt;p&gt;Current users may check out the new instructions in the settings screen to learn about the new bullet point support. The settings screen can now be accessed from the main menu which can be opened via the 3-dots icon at the top-right corner of the app. Other new features are (hopefully) pretty straightforward to use. &lt;/p&gt;
 &lt;p&gt;If you encounter any problem, please let me know. You may also check out the FAQ and ask questions in our &lt;a href="http://forums.nullium.com/index.php?topic=3.0"&gt;user forums&lt;/a&gt;.&lt;/p&gt;
