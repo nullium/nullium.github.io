@@ -1,5 +1,40 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>nullium</title><link href="http://nullium.com/" rel="alternate"></link><link href="http://nullium.com/feeds/all.atom.xml" rel="self"></link><id>http://nullium.com/</id><updated>2013-08-18T00:00:00+08:00</updated><entry><title>New Website Launched</title><link href="http://nullium.com/blog/new-website-launched/" rel="alternate"></link><updated>2013-08-18T00:00:00+08:00</updated><author><name>null</name></author><id>tag:nullium.com,2013-08-18:blog/new-website-launched/</id><summary type="html">&lt;p&gt;I have been working on this new website for a while so I am very excited to release it at last.&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>nullium</title><link href="http://nullium.com/" rel="alternate"></link><link href="http://nullium.com/feeds/all.atom.xml" rel="self"></link><id>http://nullium.com/</id><updated>2013-08-25T23:00:00+08:00</updated><entry><title>Style Note 2.0 Released</title><link href="http://nullium.com/blog/style-note-2.0-released/" rel="alternate"></link><updated>2013-08-25T23:00:00+08:00</updated><author><name>null</name></author><id>tag:nullium.com,2013-08-25:blog/style-note-2.0-released/</id><summary type="html">&lt;p&gt;StyleNote 2.0 has been released!&lt;/p&gt;
+&lt;p&gt;As a major update, there are many new features and improvements. The main interface has also been redesigned.  &lt;/p&gt;
+&lt;div class="nullium-blog-post-center-block"&gt;
+&lt;a class="nullium-blog-post-image-120" href="../../static/images/stylenote/ss1.png"&gt;&lt;img src="../../static/images/stylenote/ss1.png" alt="" /&gt;&lt;/a&gt;
+&lt;a class="nullium-blog-post-image-120" href="../../static/images/stylenote/ss2.png"&gt;&lt;img src="../../static/images/stylenote/ss2.png" alt="" /&gt;&lt;/a&gt;
+&lt;a class="nullium-blog-post-image-120" href="../../static/images/stylenote/ss3.png"&gt;&lt;img src="../../static/images/stylenote/ss3.png" alt="" /&gt;&lt;/a&gt;
+&lt;a class="nullium-blog-post-image-120" href="../../static/images/stylenote/ss4.png"&gt;&lt;img src="../../static/images/stylenote/ss4.png" alt="" /&gt;&lt;/a&gt;
+&lt;a class="nullium-blog-post-image-120" href="../../static/images/stylenote/ss5.png"&gt;&lt;img src="../../static/images/stylenote/ss5.png" alt="" /&gt;&lt;/a&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;br/&gt;
+Better backup options, note search function, bullet point support, style templates, and dropbox cloud storage support are the key additions in this update. I am too tired right now to describe the new features one by one, but at the end of this blog post you can find the complete changelog.&lt;/p&gt;
+&lt;p&gt;Current users may check out the new instructions in the settings screen to learn about the new bullet point support. The settings screen can now be accessed from the main menu which can be opened via the 3-dots icon at the top-right corner of the app. Other new features are (hopefully) pretty straightforward to use. &lt;/p&gt;
+&lt;p&gt;If you encounter any problem, please let me know. You may also check out the FAQ and ask questions in our &lt;a href="http://forums.nullium.com/index.php?topic=3.0"&gt;user forums&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;Enjoy! :)
+&lt;br/&gt;&lt;br/&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Version 2.0.0:  &lt;br /&gt;
+&lt;br/&gt;
+- New feature: Custom-scope note searching&lt;br /&gt;
+- New feature: Notes &amp;amp; settings upload/download to/from your own Dropbox account for cloud backup or note sync among different devices&lt;br /&gt;
+- New feature: Notes &amp;amp; settings export to HTML files which can be directly viewed on any computer&lt;br /&gt;
+- New feature: Notes &amp;amp; settings import from exported HTML files&lt;br /&gt;
+- New feature: Option to encrypt the exported files as .snb2 encrypted backup files&lt;br /&gt;
+- New feature: Regular auto-backup to your SD card (Pro users can use Dropbox for auto-backup and customize the frequency)&lt;br /&gt;
+- New feature: Bullet point list support which inserts bullet points automatically&lt;br /&gt;
+- New feature: Bullet point cross-out button that can cross out the whole line of a bullet point with one click&lt;br /&gt;
+- New feature: Style Templates for saving/loading your note color and size customization&lt;br /&gt;
+- New feature: Widget option for center-aligning the note text on a widget&lt;br /&gt;
+- New feature: Now you can specify a set of secret question and answer for password resetting in the future&lt;br /&gt;
+- New feature: Now you can click on URLs (links) on the note list and launch the web browser&lt;br /&gt;
+- New feature: Now you can send/share text to StyleNote from other programs&lt;br /&gt;
+- Redesigned the main interface&lt;br /&gt;
+- Many other improvements and minor changes&lt;br /&gt;
+- StyleNote now requires Android 2.1 or newer (Android 1.5 and 1.6 can still use StyleNote 1.6.3 which can be downloaded from nullium.com)&lt;/p&gt;
+&lt;/blockquote&gt;</summary><category term="stylenote"></category></entry><entry><title>New Website Launched</title><link href="http://nullium.com/blog/new-website-launched/" rel="alternate"></link><updated>2013-08-18T00:00:00+08:00</updated><author><name>null</name></author><id>tag:nullium.com,2013-08-18:blog/new-website-launched/</id><summary type="html">&lt;p&gt;I have been working on this new website for a while so I am very excited to release it at last.&lt;/p&gt;
 &lt;p&gt;The blog part of this website is now hosted on &lt;a href="http://pages.github.com/"&gt;Github&lt;/a&gt; while the &lt;a href="http://forums.nullium.com"&gt;forums&lt;/a&gt; are hosted on my own Linux web server. Having my own web server also means that I will be able to create stuff that requires a server, which wasn't possible before. We shall see. For more technical details on what are used to build this new website, you may check out the updated &lt;a href="http://nullium.com/about/"&gt;about&lt;/a&gt; section.&lt;/p&gt;
 &lt;p&gt;While I have experiences in general computer usage and coding different kinds of software, I am pretty new to website development and Linux server management, so I really learned a lot during the process. I am quite happy with what I gained tho it was hard work.&lt;/p&gt;
 &lt;p&gt;The overall design is finished, but parts of the website are still under construction. In particular I plan to create individual pages for some of my apps in the &lt;a href="http://nullium.com/creations/"&gt;creations&lt;/a&gt; section. I shall work on them later after I update the corresponding apps.&lt;/p&gt;
