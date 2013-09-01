@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>nullium</title><link href="http://nullium.com/" rel="alternate"></link><link href="http://nullium.com/feeds/all.atom.xml" rel="self"></link><id>http://nullium.com/</id><updated>2013-08-25T23:00:00+08:00</updated><entry><title>StyleNote 2.0 Released</title><link href="http://nullium.com/blog/stylenote-2.0-released/" rel="alternate"></link><updated>2013-08-25T23:00:00+08:00</updated><author><name>null</name></author><id>tag:nullium.com,2013-08-25:blog/stylenote-2.0-released/</id><summary type="html">&lt;p&gt;StyleNote 2.0 has been released!&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>nullium</title><link href="http://nullium.com/" rel="alternate"></link><link href="http://nullium.com/feeds/all.atom.xml" rel="self"></link><id>http://nullium.com/</id><updated>2013-09-01T01:00:00+08:00</updated><entry><title>Nice Simple Photo Widget 1.3 Released</title><link href="http://nullium.com/blog/nicesimplephotowidget-1.3.0-released/" rel="alternate"></link><updated>2013-09-01T01:00:00+08:00</updated><author><name>null</name></author><id>tag:nullium.com,2013-09-01:blog/nicesimplephotowidget-1.3.0-released/</id><summary type="html">&lt;p&gt;Nice Simple Photo Widget 1.3 has been released. This update fixes a major problem where some photos do not fill the whole widget properly on some devices. It also includes a new frame size as well as an option requested by a number of users - the option to open the configuration window with double-clicks instead of single-clicks. This option actually already exists in Nice Simple Clock, and it has been proven quite useful to prevent the configuration window from being launched by accidental clicks.&lt;/p&gt;
+&lt;p&gt;Here is the changelog:
+&lt;br/&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Version 1.3.0:  &lt;br /&gt;
+&lt;br/&gt;
+- Major fix: Photos are now always auto-scaled to be as large as possible within the widget&lt;br /&gt;
+- New feature: Added the minimal frame size&lt;br /&gt;
+- New feature: Now you can choose to open the widget configuration with double-clicks only (new option under "Other Settings")&lt;br /&gt;
+- Some other minor improvements and changes&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;By the way, I have made a &lt;a href="http://www.youtube.com/watch?v=xXAWx7gsJ-o"&gt;demonstration video&lt;/a&gt; to illustrate how to add a widget to your Android homescreen/desktop. The instruction is applicable to Android 4.0 or higher. I hope new widget users would find it useful as they ask me how to do it from time to time.&lt;/p&gt;</summary><category term="nice simple photo widget"></category></entry><entry><title>StyleNote 2.0 Released</title><link href="http://nullium.com/blog/stylenote-2.0-released/" rel="alternate"></link><updated>2013-08-25T23:00:00+08:00</updated><author><name>null</name></author><id>tag:nullium.com,2013-08-25:blog/stylenote-2.0-released/</id><summary type="html">&lt;p&gt;StyleNote 2.0 has been released!&lt;/p&gt;
 &lt;p&gt;As a major update, there are many new features and improvements. The main interface has also been redesigned.  &lt;/p&gt;
 &lt;p&gt;&lt;a class="nullium-blog-post-image-120" href="../../static/images/stylenote/ss1.png"&gt;&lt;img src="../../static/images/stylenote/ss1.png" alt="" /&gt;&lt;/a&gt;
 &lt;a class="nullium-blog-post-image-120" href="../../static/images/stylenote/ss2.png"&gt;&lt;img src="../../static/images/stylenote/ss2.png" alt="" /&gt;&lt;/a&gt;
