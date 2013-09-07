@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>nullium</title><link href="http://nullium.com/hk/" rel="alternate"></link><link href="http://nullium.com/hk/feeds/all.atom.xml" rel="self"></link><id>http://nullium.com/hk/</id><updated>2013-09-01T01:00:00+08:00</updated><entry><title>簡約相片框《1.3.0 版》</title><link href="http://nullium.com/hk/blog/nicesimplephotowidget-1.3.0-released/" rel="alternate"></link><updated>2013-09-01T01:00:00+08:00</updated><author><name>null</name></author><id>tag:nullium.com/hk,2013-09-01:blog/nicesimplephotowidget-1.3.0-released/</id><summary type="html">&lt;p&gt;《簡約相片框》 1.3.0 版發佈了。這是一個包含重要修正的更新。已修正的是部份相片在某些裝置上顯得太小的問題。除此之外，1.3.0 版也新增了一個新的相片框大小以及一項新的設定。新設定是有不少用家要求要加的，就是連按兩下才開啟小工具設定畫面的設定。這個功能其實在《簡約時鐘》已經有了，確實能有效防止不小心按到小工具誤啟設定畫面的清況。&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>nullium</title><link href="http://nullium.com/hk/" rel="alternate"></link><link href="http://nullium.com/hk/feeds/all.atom.xml" rel="self"></link><id>http://nullium.com/hk/</id><updated>2013-09-07T11:00:00+08:00</updated><entry><title>簡約時鐘《1.8.0 版》</title><link href="http://nullium.com/hk/blog/nicesimpleclock-1.8.0-released/" rel="alternate"></link><updated>2013-09-07T11:00:00+08:00</updated><author><name>null</name></author><id>tag:nullium.com/hk,2013-09-07:blog/nicesimpleclock-1.8.0-released/</id><summary type="html">&lt;p&gt;這個星期我更新了一下《簡約時鐘》。主要的更新內容是新增了「自訂年差設定」，是用於顯示特別的年暦的。其實是有一位台灣用家跟我提過他們一般是習慣用自己地方的民國曆的，而因為我的簡約時鐘有很多台灣的用家，所以我決定在新版中加入這個功能。年差設為「-1911」(減 1911) 就可以用到民國曆了。希望台灣及其他習慣地方性年曆的朋友們會喜歡。&lt;/p&gt;
+&lt;p&gt;其實這個功能還可以這樣用：如果你想時鐘的年份顯示 13 (原本為年份全寫 2013)，年差設為「-2000」(減 2000) 就可以了。&lt;/p&gt;
+&lt;p&gt;另外我也在這個更新中加入了三個新的「時間格式」及三個新的「日期分隔」。&lt;/p&gt;
+&lt;p&gt;改版資訊如下：
+&lt;br/&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;《1.8.0 版》
+&lt;br/&gt;
+- 新功能：自訂年差設定，用於顯示特別的年暦 (在「其他設定」中)&lt;br /&gt;
+- 加入了三個新的「時間格式」及三個新的「日期分隔」&lt;br /&gt;
+- 修正了數個問題及做了一些小改動&lt;/p&gt;
+&lt;/blockquote&gt;</summary><category term="簡約時鐘"></category></entry><entry><title>簡約相片框《1.3.0 版》</title><link href="http://nullium.com/hk/blog/nicesimplephotowidget-1.3.0-released/" rel="alternate"></link><updated>2013-09-01T01:00:00+08:00</updated><author><name>null</name></author><id>tag:nullium.com/hk,2013-09-01:blog/nicesimplephotowidget-1.3.0-released/</id><summary type="html">&lt;p&gt;《簡約相片框》 1.3.0 版發佈了。這是一個包含重要修正的更新。已修正的是部份相片在某些裝置上顯得太小的問題。除此之外，1.3.0 版也新增了一個新的相片框大小以及一項新的設定。新設定是有不少用家要求要加的，就是連按兩下才開啟小工具設定畫面的設定。這個功能其實在《簡約時鐘》已經有了，確實能有效防止不小心按到小工具誤啟設定畫面的清況。&lt;/p&gt;
 &lt;p&gt;改版資訊如下：
 &lt;br/&gt;&lt;/p&gt;
 &lt;blockquote&gt;

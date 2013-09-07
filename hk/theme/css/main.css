@@ -17,6 +17,10 @@ a:hover {
     text-decoration: underline;
 }
 
+blockquote {
+    margin: 25px 0px 25px 0px;
+}
+
 blockquote p {
     font-size: 14px;
     font-weight: normal;
