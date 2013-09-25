@@ -32,6 +32,14 @@ blockquote p {
     padding: 14px;
 }
 
+.nullium-blog-post-image-center img {
+    margin-right: auto;
+    margin-left: auto;
+    display: block;
+    border: 0px;
+    padding: 14px;
+}
+
 .nullium-post-title a {
     color: #666666;
     font-weight: normal

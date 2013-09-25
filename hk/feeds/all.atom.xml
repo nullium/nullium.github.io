@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>nullium</title><link href="http://nullium.com/hk/" rel="alternate"></link><link href="http://nullium.com/hk/feeds/all.atom.xml" rel="self"></link><id>http://nullium.com/hk/</id><updated>2013-09-07T11:00:00+08:00</updated><entry><title>簡約時鐘《1.8.0 版》</title><link href="http://nullium.com/hk/blog/nicesimpleclock-1.8.0-released/" rel="alternate"></link><updated>2013-09-07T11:00:00+08:00</updated><author><name>null</name></author><id>tag:nullium.com/hk,2013-09-07:blog/nicesimpleclock-1.8.0-released/</id><summary type="html">&lt;p&gt;這個星期我更新了一下《簡約時鐘》。主要的更新內容是新增了「自訂年差設定」，是用於顯示特別的年暦的。其實是有一位台灣用家跟我提過他們一般是習慣用自己地方的民國曆的，而因為我的簡約時鐘有很多台灣的用家，所以我決定在新版中加入這個功能。年差設為「-1911」(減 1911) 就可以用到民國曆了。希望台灣及其他習慣地方性年曆的朋友們會喜歡。&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>nullium</title><link href="http://nullium.com/hk/" rel="alternate"></link><link href="http://nullium.com/hk/feeds/all.atom.xml" rel="self"></link><id>http://nullium.com/hk/</id><updated>2013-09-25T09:00:00+08:00</updated><entry><title>簡約電量計《1.6.0 版》</title><link href="http://nullium.com/hk/blog/nicesimplebattery-1.6.0-released/" rel="alternate"></link><updated>2013-09-25T09:00:00+08:00</updated><author><name>null</name></author><id>tag:nullium.com/hk,2013-09-25:blog/nicesimplebattery-1.6.0-released/</id><summary type="html">&lt;p&gt;《簡約電量計》已更新到 1.6.0 版了。現在你可以在電量計圖案中加上電池金属帽，就是一般電池頭頂上的小帽，如下圖：&lt;/p&gt;
+&lt;p&gt;&lt;a class="nullium-blog-post-image-center" href="../../static/images/blog/nicesimplebattery-1.6.0-released-1.png"&gt;&lt;img src="../../static/images/blog/nicesimplebattery-1.6.0-released-1.png" alt="" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;另外當電量低過某一個自訂的水平時，你可以用別的顏色來繪畫你的電量計，提醒自己是時候要充電了。&lt;/p&gt;
+&lt;p&gt;希望大家會喜歡這些新功能，改版資訊如下：
+&lt;br/&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;《1.6.0 版》
+&lt;br/&gt;
+- 新功能：現在可在電量圖案中顯示電池金属帽 (選項位於「電量圖案」部份)&lt;br /&gt;
+- 新功能：現在當電量不足時，可使用特別的顏色繪畫電量計 (選項位於「進階設定」部份)&lt;br /&gt;
+- 現在按預覽圖可改變預覽中顯示的電量&lt;br /&gt;
+- 修正了數個問題及做了一些小改動&lt;/p&gt;
+&lt;/blockquote&gt;</summary><category term="簡約電量計"></category></entry><entry><title>簡約時鐘《1.8.0 版》</title><link href="http://nullium.com/hk/blog/nicesimpleclock-1.8.0-released/" rel="alternate"></link><updated>2013-09-07T11:00:00+08:00</updated><author><name>null</name></author><id>tag:nullium.com/hk,2013-09-07:blog/nicesimpleclock-1.8.0-released/</id><summary type="html">&lt;p&gt;這個星期我更新了一下《簡約時鐘》。主要的更新內容是新增了「自訂年差設定」，是用於顯示特別的年暦的。其實是有一位台灣用家跟我提過他們一般是習慣用自己地方的民國曆的，而因為我的簡約時鐘有很多台灣的用家，所以我決定在新版中加入這個功能。年差設為「-1911」(減 1911) 就可以用到民國曆了。希望台灣及其他習慣地方性年曆的朋友們會喜歡。&lt;/p&gt;
 &lt;p&gt;其實這個功能還可以這樣用：如果你想時鐘的年份顯示 13 (原本為年份全寫 2013)，年差設為「-2000」(減 2000) 就可以了。&lt;/p&gt;
 &lt;p&gt;另外我也在這個更新中加入了三個新的「時間格式」及三個新的「日期分隔」。&lt;/p&gt;
 &lt;p&gt;改版資訊如下：

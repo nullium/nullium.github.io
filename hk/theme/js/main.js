@@ -16,7 +16,7 @@ $('.nullium-nav').hover(
    }
 );
             
-$('.nullium-creations-screenshots>a, .nullium-creations-screenshots-vertical>a, .nullium-blog-post-image-120').colorbox({opacity:0.7,onComplete:function()
+$('.nullium-creations-screenshots>a, .nullium-creations-screenshots-vertical>a, .nullium-blog-post-image-120, .nullium-blog-post-image-center').colorbox({opacity:0.7,onComplete:function()
     {
         $('.cboxPhoto').unbind().click($.colorbox.close);
     }
