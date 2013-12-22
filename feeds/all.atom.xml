@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>nullium</title><link href="http://nullium.com/" rel="alternate"></link><link href="http://nullium.com/feeds/all.atom.xml" rel="self"></link><id>http://nullium.com/</id><updated>2013-09-25T09:00:00+08:00</updated><entry><title>Nice Simple Battery 1.6.0 Released</title><link href="http://nullium.com/blog/nicesimplebattery-1.6.0-released/" rel="alternate"></link><updated>2013-09-25T09:00:00+08:00</updated><author><name>null</name></author><id>tag:nullium.com,2013-09-25:blog/nicesimplebattery-1.6.0-released/</id><summary type="html">&lt;p&gt;Nice Simple Battery has been updated to 1.6.0. Now you can draw the small battery cap on top of your battery icon. It looks like this:&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>nullium</title><link href="http://nullium.com/" rel="alternate"></link><link href="http://nullium.com/feeds/all.atom.xml" rel="self"></link><id>http://nullium.com/</id><updated>2013-12-22T13:00:00+08:00</updated><entry><title>IsoPix 1.3.0 Released and Pro On Sale Announcement</title><link href="http://nullium.com/blog/isopix-1.3.0-released/" rel="alternate"></link><updated>2013-12-22T13:00:00+08:00</updated><author><name>null</name></author><id>tag:nullium.com,2013-12-22:blog/isopix-1.3.0-released/</id><summary type="html">&lt;p&gt;My productivity was &lt;a href="http://en.wikipedia.org/wiki/Epsilon"&gt;epsilon&lt;/a&gt; for a while, but now I am back to work. I feel I am gaining momentum again. :)&lt;/p&gt;
+&lt;p&gt;IsoPix has been updated to 1.3.0 with lots of new pro features. The free version has also been updated with a new feature and improved as well. All the changes are listed at the end of this post. Some of the new icons in this version are generously donated by a IsoPix user called PixelGeek. Check out &lt;a href="http://www.pixelgeekspixels.com/"&gt;his website&lt;/a&gt; if you like pixel art. ;)&lt;/p&gt;
+&lt;p&gt;&lt;a class="nullium-blog-post-image-center" href="../../static/images/blog/isopix-1.3.0-released-1.png"&gt;&lt;img src="../../static/images/blog/isopix-1.3.0-released-1.png" alt="" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;I have also decided to increase the price of IsoPix Pro soon. I have seen drawing apps with less features cost almost twice as much as IsoPix Pro, so I think it would be fair for me to adjust the price of IsoPix Pro as it is getting more and more mature since the first version. To thank the support of all the existing IsoPix users, the price will remain unchanged until the end of 2013 (hence it is on sale in a sense :)), so you may consider going Pro now if you like IsoPix. Once you upgrade to Pro, you will be able to enjoy the Pro version including all the future updates without any further payment.&lt;/p&gt;
+&lt;p&gt;Here is the full changelog of IsoPix 1.3.0:
+&lt;br/&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Version 1.3.0:  &lt;br /&gt;
+&lt;br/&gt;
+- New feature: Save/load color palettes (color buttons' colors)&lt;br /&gt;
+- New feature (Pro): Changing image canvas size&lt;br /&gt;
+- New feature (Pro): Pasting/importing from another image&lt;br /&gt;
+- New feature (Pro): Option to have 18 color palettes slots instead 6&lt;br /&gt;
+- New feature (Pro): Option to show file/image info on the interface&lt;br /&gt;
+- New feature (Pro): Option to customize grid size&lt;br /&gt;
+- Improved the speed of rotating and flipping a copied selection&lt;br /&gt;
+- Updated some icons&lt;br /&gt;
+- Changed the look of the color palette (buttons)&lt;br /&gt;
+- Reorganized the menu items&lt;br /&gt;
+- Pop-up help messages will now stay longer than before&lt;br /&gt;
+- Fixed an issue where a part of a large copied selection may disappear after being rotated in some situations&lt;br /&gt;
+- Fixed an issue where links cannot be clicked in the readme&lt;br /&gt;
+- Fixed some potential errors &lt;/p&gt;
+&lt;/blockquote&gt;</summary><category term="isopix"></category></entry><entry><title>Nice Simple Battery 1.6.0 Released</title><link href="http://nullium.com/blog/nicesimplebattery-1.6.0-released/" rel="alternate"></link><updated>2013-09-25T09:00:00+08:00</updated><author><name>null</name></author><id>tag:nullium.com,2013-09-25:blog/nicesimplebattery-1.6.0-released/</id><summary type="html">&lt;p&gt;Nice Simple Battery has been updated to 1.6.0. Now you can draw the small battery cap on top of your battery icon. It looks like this:&lt;/p&gt;
 &lt;p&gt;&lt;a class="nullium-blog-post-image-center" href="../../static/images/blog/nicesimplebattery-1.6.0-released-1.png"&gt;&lt;img src="../../static/images/blog/nicesimplebattery-1.6.0-released-1.png" alt="" /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;Additionally, there is a new option that allows you to use a different color to draw your battery icon when the battery power level is below a specified level. This should be useful to remind yourself to charge your battery when the battery is running low.&lt;/p&gt;
 &lt;p&gt;Hope you would like these new feature in this update. Here is the changelog:

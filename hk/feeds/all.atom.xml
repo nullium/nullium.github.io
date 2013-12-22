@@ -1,5 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>nullium</title><link href="http://nullium.com/hk/" rel="alternate"></link><link href="http://nullium.com/hk/feeds/all.atom.xml" rel="self"></link><id>http://nullium.com/hk/</id><updated>2013-09-25T09:00:00+08:00</updated><entry><title>簡約電量計《1.6.0 版》</title><link href="http://nullium.com/hk/blog/nicesimplebattery-1.6.0-released/" rel="alternate"></link><updated>2013-09-25T09:00:00+08:00</updated><author><name>null</name></author><id>tag:nullium.com/hk,2013-09-25:blog/nicesimplebattery-1.6.0-released/</id><summary type="html">&lt;p&gt;《簡約電量計》已更新到 1.6.0 版了。現在你可以在電量計圖案中加上電池金属帽，就是一般電池頭頂上的小帽，如下圖：&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>nullium</title><link href="http://nullium.com/hk/" rel="alternate"></link><link href="http://nullium.com/hk/feeds/all.atom.xml" rel="self"></link><id>http://nullium.com/hk/</id><updated>2013-12-22T13:00:00+08:00</updated><entry><title>IsoPix《1.3.0 版》及 Pro 專業版特價通告</title><link href="http://nullium.com/hk/blog/isopix-1.3.0-released/" rel="alternate"></link><updated>2013-12-22T13:00:00+08:00</updated><author><name>null</name></author><id>tag:nullium.com/hk,2013-12-22:blog/isopix-1.3.0-released/</id><summary type="html">&lt;p&gt;前陣子我的工作效率很悲劇地只剩 &lt;a href="http://zh.wikipedia.org/wiki/%CE%95"&gt;epsilon&lt;/a&gt;，不過我又重新投入工作了。狀態也遂漸回復。:)&lt;/p&gt;
+&lt;p&gt;《IsoPix》已經更新到 1.3.0 版了。加入了很多專業版的功能。而普通版也有一個新的功能及其他的改進。詳細的更新內容已寫在這個帖的最後。這個版本的一些新圖示是由一位叫 &lt;a href="http://www.pixelgeekspixels.com/"&gt;PixelGeek&lt;/a&gt; 的外國用家慷慨提供的。&lt;/p&gt;
+&lt;p&gt;&lt;a class="nullium-blog-post-image-center" href="../../static/images/blog/isopix-1.3.0-released-1.png"&gt;&lt;img src="../../static/images/blog/isopix-1.3.0-released-1.png" alt="" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;另一方面，我決定調整一下 IsoPix Pro 專業版的價格。之前在 Google Play 商店逛時發現有些同類型的 app 功能比 IsoPix 少但郤要接近 IsoPix Pro 的雙倍價錢。我想，在現在 IsoPix 已經日逐成熟的時候，為 IsoPix Pro 的價格做向上的調整也是頗為合理的，不竟現版本比起 IsoPix 的第一版已有很大的改進。但為了感謝早期的用家的支持，Pro 版特價將會在 2013 年年尾之前保持不變。(所以在這個期間可算是變相的減價 :)) 如果你喜歡 IsoPix ，你可以考慮現在就升級到 Pro 版。升級之後，你將可享用未來的所有 Pro 版更新，不收額外的費用。&lt;/p&gt;
+&lt;p&gt;最後附上 1.3.0 版的改版資訊：
+&lt;br/&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;《1.3.0 版》
+&lt;br/&gt;
+- 新功能：儲存/讀取調色盤(所有顏色鍵的顏色)&lt;br /&gt;
+- 新功能(Pro)：改變圖像畫布的大小&lt;br /&gt;
+- 新功能(Pro)：匯入及貼上別的圖像檔案&lt;br /&gt;
+- 新功能(Pro)：可選擇顯示18個調色盤顏色格(本來有6個)&lt;br /&gt;
+- 新功能(Pro)：可在介面上顯示檔案及圖像的資訊&lt;br /&gt;
+- 新功能(Pro)：可自訂網格的大小&lt;br /&gt;
+- 提升了旋轉或翻轉圖片的速度&lt;br /&gt;
+- 更新了一些圖示&lt;br /&gt;
+- 改變了調色盤(顏色鍵)的外觀&lt;br /&gt;
+- 重新編排了選單的選項&lt;br /&gt;
+- 彈出式的說明將停留更久&lt;br /&gt;
+- 修正了一個在某些清況下可能令複製部份在旋轉後部份消失的問題&lt;br /&gt;
+- 修正了不能打開軟件資訊中的連結的問題&lt;br /&gt;
+- 修正了一些潛在的錯誤&lt;/p&gt;
+&lt;/blockquote&gt;</summary><category term="isopix"></category></entry><entry><title>簡約電量計《1.6.0 版》</title><link href="http://nullium.com/hk/blog/nicesimplebattery-1.6.0-released/" rel="alternate"></link><updated>2013-09-25T09:00:00+08:00</updated><author><name>null</name></author><id>tag:nullium.com/hk,2013-09-25:blog/nicesimplebattery-1.6.0-released/</id><summary type="html">&lt;p&gt;《簡約電量計》已更新到 1.6.0 版了。現在你可以在電量計圖案中加上電池金属帽，就是一般電池頭頂上的小帽，如下圖：&lt;/p&gt;
 &lt;p&gt;&lt;a class="nullium-blog-post-image-center" href="../../static/images/blog/nicesimplebattery-1.6.0-released-1.png"&gt;&lt;img src="../../static/images/blog/nicesimplebattery-1.6.0-released-1.png" alt="" /&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;另外當電量低過某一個自訂的水平時，你可以用別的顏色來繪畫你的電量計，提醒自己是時候要充電了。&lt;/p&gt;
 &lt;p&gt;希望大家會喜歡這些新功能，改版資訊如下：
