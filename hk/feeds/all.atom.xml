@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>nullium</title><link href="http://nullium.com/hk/" rel="alternate"></link><link href="http://nullium.com/hk/feeds/all.atom.xml" rel="self"></link><id>http://nullium.com/hk/</id><updated>2014-01-08T15:00:00+08:00</updated><entry><title>StyleNote《2.1.0 版》</title><link href="http://nullium.com/hk/blog/stylenote-2.1.0-released/" rel="alternate"></link><updated>2014-01-08T15:00:00+08:00</updated><author><name>null</name></author><id>tag:nullium.com/hk,2014-01-08:blog/stylenote-2.1.0-released/</id><summary type="html">&lt;p&gt;StyleNote《2.1.0 版》發佈了！&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>nullium</title><link href="http://nullium.com/hk/" rel="alternate"></link><link href="http://nullium.com/hk/feeds/all.atom.xml" rel="self"></link><id>http://nullium.com/hk/</id><updated>2014-01-31T03:00:00+08:00</updated><entry><title>簡約時鐘《1.9.0 版》</title><link href="http://nullium.com/hk/blog/nicesimpleclock-1.9.0-released/" rel="alternate"></link><updated>2014-01-31T03:00:00+08:00</updated><author><name>null</name></author><id>tag:nullium.com/hk,2014-01-31:blog/nicesimpleclock-1.9.0-released/</id><summary type="html">&lt;p&gt;新年快樂！今日是年初一，為了慶祝馬年的來臨，簡約時鐘要更新了。因為正值農曆新年，所以我把簡單的農曆顯示加入到簡約時鐘中。&lt;/p&gt;
+&lt;p&gt;另外，一些用家希望在中文的系統中也能用到英文的日期顯示及 am/pm ，因此新版也新增了相應的選項。最後，現在除了能設定時間被按時要執行的程式，也能為日期作同樣的設定了。例如，你可以設定按時間就開啟鬧鐘 app 而按日期就開啟月曆 app 。&lt;/p&gt;
+&lt;p&gt;&lt;a class="nullium-blog-post-image-center" href="../../static/images/blog/nicesimpleclock-1.9.0-released-1.png"&gt;&lt;img src="../../static/images/blog/nicesimpleclock-1.9.0-released-1.png" alt="" /&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;祝願大家馬年身體健康新年進步！最後送上改版資訊：
+&lt;br/&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;《1.9.0 版》
+&lt;br/&gt;
+- 新功能：日期被按時要執行的程式的設定 (在「其他設定」中)&lt;br /&gt;
+- 新功能：農曆顯示設定 (在「日期」中)&lt;br /&gt;
+- 新功能：在非英文的系統中可用英文顯示日期及上下午 (在「其他設定」中)&lt;br /&gt;
+- 修正了在使用系統預設的日期格式時不能顯示星期的問題&lt;br /&gt;
+- 縮小了程式檔的大小&lt;/p&gt;
+&lt;/blockquote&gt;</summary><category term="簡約時鐘"></category></entry><entry><title>StyleNote《2.1.0 版》</title><link href="http://nullium.com/hk/blog/stylenote-2.1.0-released/" rel="alternate"></link><updated>2014-01-08T15:00:00+08:00</updated><author><name>null</name></author><id>tag:nullium.com/hk,2014-01-08:blog/stylenote-2.1.0-released/</id><summary type="html">&lt;p&gt;StyleNote《2.1.0 版》發佈了！&lt;/p&gt;
 &lt;p&gt;應用家要求加入了自訂筆記本排序的功能了。也加入了記事的自動排序選項，可按記事標題、創建時間或最後修改時間排序記事。希望方便到大家在 StyleNote 中整理記事。&lt;/p&gt;
 &lt;p&gt;&lt;a class="nullium-blog-post-image-center" href="../../static/images/blog/stylenote-2.1.0-released-1.png"&gt;&lt;img src="../../static/images/blog/stylenote-2.1.0-released-1.png" alt="" width="200"/&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;在 Pro 版中，我也加入了字數統計及一些記事列表的進階個人化設定。&lt;/p&gt;
