@@ -64,6 +64,11 @@ blockquote p {
     color: #999999;
 }
 
+.nullium-post-social-buttons {
+}
+
+.fb-like { top: -4px; }
+
 .nullium-archives-item {
     margin-bottom: 10px;
 }
