@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>nullium</title><link href="http://nullium.com/" rel="alternate"></link><link href="http://nullium.com/feeds/all.atom.xml" rel="self"></link><id>http://nullium.com/</id><updated>2014-08-16T14:00:00+08:00</updated><entry><title>Rapid Dictionary Launched</title><link href="http://nullium.com/blog/rapid-dictionary-launched/" rel="alternate"></link><updated>2014-08-16T14:00:00+08:00</updated><author><name>null</name></author><id>tag:nullium.com,2014-08-16:blog/rapid-dictionary-launched/</id><summary type="html">&lt;p&gt;So I learned and did some web programming. It was an fun adventure. Today, I am happy to announce that &lt;a href="http://dict.nullium.com"&gt;Rapid Dictionary&lt;/a&gt; is launched!&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>nullium</title><link href="http://nullium.com/" rel="alternate"></link><link href="http://nullium.com/feeds/all.atom.xml" rel="self"></link><id>http://nullium.com/</id><updated>2014-09-30T02:10:00+08:00</updated><entry><title>IsoPix 1.4.0 Released</title><link href="http://nullium.com/blog/isopix-1.4.0-released/" rel="alternate"></link><updated>2014-09-30T02:10:00+08:00</updated><author><name>null</name></author><id>tag:nullium.com,2014-09-30:blog/isopix-1.4.0-released/</id><summary type="html">&lt;p&gt;IsoPix is updated to 1.4.0 with several new features. The interface is now even more customizable. Also, you can now copy a selection once and paste it as many times as you like. It should be handy for many users. You may check the changelog below for other additions in this update. Enjoy!
+&lt;br/&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Version 1.4.0:&lt;br /&gt;
+&lt;br/&gt;
+- New feature: Function to set a default palette to be used for new images&lt;br /&gt;
+- New feature: Option to set the default zoom level&lt;br /&gt;
+- New feature: Option to remove the on-screen menu and back button&lt;br /&gt;
+- New feature: Option to copy once and paste multiple times&lt;br /&gt;
+- New feature: Option to adjust the button icon sizes&lt;br /&gt;
+- New feature (Pro): Option to set the transparent background checkerboard colors&lt;br /&gt;
+- New feature (Pro): Option to show the position information when using tools&lt;br /&gt;
+- Now newly saved images should be shown immediately on the official Android gallery app  &lt;/p&gt;
+&lt;/blockquote&gt;</summary><category term="isopix"></category></entry><entry><title>Rapid Dictionary Launched</title><link href="http://nullium.com/blog/rapid-dictionary-launched/" rel="alternate"></link><updated>2014-08-16T14:00:00+08:00</updated><author><name>null</name></author><id>tag:nullium.com,2014-08-16:blog/rapid-dictionary-launched/</id><summary type="html">&lt;p&gt;So I learned and did some web programming. It was an fun adventure. Today, I am happy to announce that &lt;a href="http://dict.nullium.com"&gt;Rapid Dictionary&lt;/a&gt; is launched!&lt;/p&gt;
 &lt;p&gt;&lt;a href="http://dict.nullium.com"&gt;Rapid Dictionary&lt;/a&gt; instantly gives you the English word definition as you type the word letter-by-letter. That means sometimes you only need to type in the first few letters of the word to get the definition. Try it out - it is quick and easy to use. :)&lt;/p&gt;
 &lt;p&gt;There is also a &lt;a href="http://ecdict.nullium.com"&gt;English-Chinese dictionary&lt;/a&gt; version of it that instantly gives you the Chinese definition instead of the English one.&lt;/p&gt;
 &lt;p&gt;As it generates the word definitions so rapidly, while I am using some of the most robust technologies out there to build the web app, I am not sure if my little server can cope with the heavy load if it gets popular. Maybe I don't have to worry about it being used by many people at the same time - oh well, we will see. :)&lt;/p&gt;

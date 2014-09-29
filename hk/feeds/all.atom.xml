@@ -1,5 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>nullium</title><link href="http://nullium.com/hk/" rel="alternate"></link><link href="http://nullium.com/hk/feeds/all.atom.xml" rel="self"></link><id>http://nullium.com/hk/</id><updated>2014-08-16T14:00:00+08:00</updated><entry><title>即時字典網站啟用</title><link href="http://nullium.com/hk/blog/rapid-dictionary-launched/" rel="alternate"></link><updated>2014-08-16T14:00:00+08:00</updated><author><name>null</name></author><id>tag:nullium.com/hk,2014-08-16:blog/rapid-dictionary-launched/</id><summary type="html">&lt;p&gt;走了去學寫網頁應用，過程是頗有趣的。今天很高興能發佈第一個應用「&lt;a href="http://ecdict.nullium.com"&gt;即時英漢字典&lt;/a&gt;」。&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>nullium</title><link href="http://nullium.com/hk/" rel="alternate"></link><link href="http://nullium.com/hk/feeds/all.atom.xml" rel="self"></link><id>http://nullium.com/hk/</id><updated>2014-09-30T02:10:00+08:00</updated><entry><title>IsoPix《1.4.0 版》</title><link href="http://nullium.com/hk/blog/isopix-1.4.0-released/" rel="alternate"></link><updated>2014-09-30T02:10:00+08:00</updated><author><name>null</name></author><id>tag:nullium.com/hk,2014-09-30:blog/isopix-1.4.0-released/</id><summary type="html">&lt;p&gt;《IsoPix》已經更新到 1.4.0 版了，加入了數個新功能。其中包括幾個介面上的個人化設定。另外就是現在大家可以複製一次然後連續貼上多次了，這個功能應該可以方便到不少用家。其他的更新內容可在下面找到。希望大家喜歡。
+&lt;br/&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;《1.4.0 版》&lt;br /&gt;
+&lt;br/&gt;
+- 新功能：可設定新圖的預設調色盤&lt;br /&gt;
+- 新功能：設定程式啟動時的預設縮放的選項&lt;br /&gt;
+- 新功能：隱藏選單及返回鍵的選項&lt;br /&gt;
+- 新功能：啓用可重覆的複製及貼上的選項&lt;br /&gt;
+- 新功能：設定圖示大小的選項&lt;br /&gt;
+- 新功能(Pro)：設定透明背景圖案的選項&lt;br /&gt;
+- 新功能(Pro)：顯示位置資訊的選項&lt;br /&gt;
+- 現在新圖像應會在儲存後在 Android 的官方圖片瀏覽程式中立即出現  &lt;/p&gt;
+&lt;/blockquote&gt;</summary><category term="isopix"></category></entry><entry><title>即時字典網站啟用</title><link href="http://nullium.com/hk/blog/rapid-dictionary-launched/" rel="alternate"></link><updated>2014-08-16T14:00:00+08:00</updated><author><name>null</name></author><id>tag:nullium.com/hk,2014-08-16:blog/rapid-dictionary-launched/</id><summary type="html">&lt;p&gt;走了去學寫網頁應用，過程是頗有趣的。今天很高興能發佈第一個應用「&lt;a href="http://ecdict.nullium.com"&gt;即時英漢字典&lt;/a&gt;」。&lt;/p&gt;
 &lt;p&gt;當你一鍵一鍵輸入英文詞語的同時，相關的定義解釋就會即時顯示出來。換言之，有時只輸入了整個英文字詞的頭幾個字母後，要找的定義解釋就已經顯示出來了。來試試看這個簡易迅速的字典吧。&lt;/p&gt;
 &lt;p&gt;除了即時英漢字典，另外也有全英文解釋的「&lt;a href="http://dict.nullium.com"&gt;即時英英字典&lt;/a&gt;」。&lt;/p&gt;
 &lt;p&gt;由於字典是以極速查找定義解釋的，雖然我都用最新的技術去製作它，在萬一比較多用家同時使用字典時，我不知道我的小小伺服器能否支持得到呢。或者不用擔心太多人同時會用？&lt;/p&gt;
