@@ -1,5 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>nullium</title><link href="http://nullium.com/hk/" rel="alternate"></link><link href="http://nullium.com/hk/feeds/all.atom.xml" rel="self"></link><id>http://nullium.com/hk/</id><updated>2014-09-30T02:10:00+08:00</updated><entry><title>IsoPix《1.4.0 版》</title><link href="http://nullium.com/hk/blog/isopix-1.4.0-released/" rel="alternate"></link><updated>2014-09-30T02:10:00+08:00</updated><author><name>null</name></author><id>tag:nullium.com/hk,2014-09-30:blog/isopix-1.4.0-released/</id><summary type="html">&lt;p&gt;&lt;a href="https://play.google.com/store/apps/details?id=com.nullium.isopix"&gt;《IsoPix》&lt;/a&gt;已經更新到 1.4.0 版了，加入了數個新功能。其中包括幾個介面上的個人化設定。另外就是現在大家可以複製一次然後連續貼上多次了，這個功能應該可以方便到不少用家。其他的更新內容可在下面找到。希望大家喜歡。
+<feed xmlns="http://www.w3.org/2005/Atom"><title>nullium</title><link href="http://nullium.com/hk/" rel="alternate"></link><link href="http://nullium.com/hk/feeds/all.atom.xml" rel="self"></link><id>http://nullium.com/hk/</id><updated>2014-11-30T00:03:00+08:00</updated><entry><title>StyleNote《2.2.0 版》</title><link href="http://nullium.com/hk/blog/stylenote-2.2.0-released/" rel="alternate"></link><updated>2014-11-30T00:03:00+08:00</updated><author><name>null</name></author><id>tag:nullium.com/hk,2014-11-30:blog/stylenote-2.2.0-released/</id><summary type="html">&lt;p&gt;StyleNote《2.2.0 版》發佈了！主要的更新項目是有很多用家希望加入的桌面小工具捲動(scrolling)功能，可在 Android 3.0 或以上使用。有了這個功能之後你就可以直接在你的桌面上瀏覽比較長的記事了。由於這個新功能的實現涉及到一些根本上的程式改動，它現暫以「試驗性功能」的形式出現，而預設是不啟用的。如果你想試用這個新功能，你可以到主設定頁的「桌面便條小工具設定」分類中找到啟用它的設定選項。(設定頁可在 StyleNote 主介面右上角的「三小點」選單中進入)&lt;/p&gt;
+&lt;p&gt;因為這個新功能現階段還是試驗性質，如果你在使用它時有遇到甚麼問題，請把這個功能暫時關掉及透過電郵或&lt;a href="http://forums.nullium.com/hk/index.php?board=2.0"&gt;用家論壇&lt;/a&gt;回報問題，好讓我確保大家也可以使用到這個功能。謝謝。在確定這個功能沒有問題後我就會把它列為正式功能 (預設啟用)。&lt;/p&gt;
+&lt;p&gt;最後付上完整的改版訊息：&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;《2.2.0 版》  &lt;br /&gt;
+&lt;br/&gt;
+- 新功能(Android 3.0+ 試驗性設定)：可啟用桌面便條小工具的捲動功能 (如遇問題，請先暫停使用該功能，並透過電郵或用家論壇回報問題)&lt;br /&gt;
+- 新功能：可設定在記事編輯器按返回鍵後要執行的動作&lt;br /&gt;
+- 新功能：可自訂備份檔的儲存位置&lt;br /&gt;
+- 現在使用非標準的系統介面語言的中文系統也會使用到繁體中文介面&lt;br /&gt;
+- 修正了一個自訂記事間距的問題&lt;br /&gt;
+- 修正了一個令桌面小工具上的文字有時會在更新後消失的問題&lt;br /&gt;
+- 修正了一個可能會在貼上大量文字時會出現的錯誤&lt;br /&gt;
+- 修正了一個可能會在排序記事時會出現的錯誤&lt;br /&gt;
+- 修正了一些潛在的問題  &lt;/p&gt;
+&lt;/blockquote&gt;</summary><category term="stylenote"></category></entry><entry><title>IsoPix《1.4.0 版》</title><link href="http://nullium.com/hk/blog/isopix-1.4.0-released/" rel="alternate"></link><updated>2014-09-30T02:10:00+08:00</updated><author><name>null</name></author><id>tag:nullium.com/hk,2014-09-30:blog/isopix-1.4.0-released/</id><summary type="html">&lt;p&gt;&lt;a href="https://play.google.com/store/apps/details?id=com.nullium.isopix"&gt;《IsoPix》&lt;/a&gt;已經更新到 1.4.0 版了，加入了數個新功能。其中包括幾個介面上的個人化設定。另外就是現在大家可以複製一次然後連續貼上多次了，這個功能應該可以方便到不少用家。其他的更新內容可在下面找到。希望大家喜歡。
 &lt;br/&gt;&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;《1.4.0 版》&lt;br /&gt;
