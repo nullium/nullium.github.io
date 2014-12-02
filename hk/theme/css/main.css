@@ -358,3 +358,7 @@ blockquote p {
     padding-left: 6px;
     color: #cccccc;
 }
+
+.center-text {
+    text-align: center;
+}
