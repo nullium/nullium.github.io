@@ -1,5 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>nullium</title><link href="http://nullium.com/hk/" rel="alternate"></link><link href="http://nullium.com/hk/feeds/all.atom.xml" rel="self"></link><id>http://nullium.com/hk/</id><updated>2014-12-03T01:00:00+08:00</updated><entry><title>捐款頁</title><link href="http://nullium.com/hk/blog/donation-page-created/" rel="alternate"></link><updated>2014-12-03T01:00:00+08:00</updated><author><name>null</name></author><id>tag:nullium.com/hk,2014-12-03:blog/donation-page-created/</id><summary type="html">&lt;p&gt;因為有幾個用家問我能否捐款給我支持我的開發工作，所以我做了&lt;a href="http://nullium.com/hk/donate/"&gt;這個網頁&lt;/a&gt;接受捐款贊助。其實想捐款支持我的這個想法本身已經很令我鼓舞。再次感謝大家透過任何形式對我的支持！&lt;/p&gt;</summary><category term="站務"></category></entry><entry><title>StyleNote《2.2.0 版》</title><link href="http://nullium.com/hk/blog/stylenote-2.2.0-released/" rel="alternate"></link><updated>2014-11-30T00:03:00+08:00</updated><author><name>null</name></author><id>tag:nullium.com/hk,2014-11-30:blog/stylenote-2.2.0-released/</id><summary type="html">&lt;p&gt;StyleNote《2.2.0 版》發佈了！主要的更新項目是有很多用家希望加入的桌面小工具捲動(scrolling)功能，可在 Android 3.0 或以上使用。有了這個功能之後你就可以直接在你的桌面上瀏覽比較長的記事了。由於這個新功能的實現涉及到一些根本上的程式改動，它現暫以「試驗性功能」的形式出現，而預設是不啟用的。如果你想試用這個新功能，你可以到主設定頁的「桌面便條小工具設定」分類中找到啟用它的設定選項。(設定頁可在 StyleNote 主介面右上角的「三小點」選單中進入)&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>nullium</title><link href="http://nullium.com/hk/" rel="alternate"></link><link href="http://nullium.com/hk/feeds/all.atom.xml" rel="self"></link><id>http://nullium.com/hk/</id><updated>2014-12-04T15:07:00+08:00</updated><entry><title>簡約相片框《1.4.0 版》</title><link href="http://nullium.com/hk/blog/nicesimplephotowidget-1.4.0-released/" rel="alternate"></link><updated>2014-12-04T15:07:00+08:00</updated><author><name>null</name></author><id>tag:nullium.com/hk,2014-12-04:blog/nicesimplephotowidget-1.4.0-released/</id><summary type="html">&lt;p&gt;《簡約相片框》 的 1.4.0 版更新發佈了。主要的新功能有兩個。&lt;/p&gt;
+&lt;p&gt;現在在相片瀏覽介面中單按相片一下就可以啟動自選的相片瀏覽程式。例如你想用別的相片瀏覽程式觀看小工具正在展示的相片，那你只要先按小工具一下打開小工具的瀏覽介面，再按介面上的相片一下，自選的相片瀏覽程式就會啟動及打開相片了。瀏覽用的程式可在設定頁中選擇。&lt;/p&gt;
+&lt;p&gt;另一個新功能是在幻燈片模式(輪流顯示資料夾中的所有相片的模式)中播放子資料夾的選項。如果你有很多相片分別放在不同資料夾，那麼這個功能應該很有用。&lt;/p&gt;
+&lt;p&gt;希望相片小工具的用家會喜歡這些新功能。:)&lt;/p&gt;
+&lt;p&gt;完整的改版資訊如下：
+&lt;br/&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;《1.4.0 版》
+&lt;br/&gt;
+- 新功能：現在在相片瀏覽介面中單按相片一下就可以啟動自選的相片瀏覽程式&lt;br /&gt;
+- 新功能：新增了在幻燈片模式（輪流顯示資料夾中的所有相片）中播放子資料夾的選項&lt;br /&gt;
+- 新功能：新增了「每四小時」的幻燈片相片更新頻率&lt;br /&gt;
+- 把幻燈片的選項獨立分開了出來&lt;br /&gt;
+- 在「每日」的幻燈片更新頻率下，更新沒如期執行的情況將會減少，更新將會在對上一次更新的二十四小時後執行，因此未必會像以前一樣在零分零時執行&lt;br /&gt;
+- 修正了在一些裝置上配色對話盒下方的鍵在橫向模式中不能顯示的問題&lt;br /&gt;
+- 修正了在一些中文系統上沒有預設使用中文介面的問題  &lt;/p&gt;
+&lt;/blockquote&gt;</summary><category term="簡約相片框"></category></entry><entry><title>捐款頁</title><link href="http://nullium.com/hk/blog/donation-page-created/" rel="alternate"></link><updated>2014-12-03T01:00:00+08:00</updated><author><name>null</name></author><id>tag:nullium.com/hk,2014-12-03:blog/donation-page-created/</id><summary type="html">&lt;p&gt;因為有幾個用家問我能否捐款給我支持我的開發工作，所以我做了&lt;a href="http://nullium.com/hk/donate/"&gt;這個網頁&lt;/a&gt;接受捐款贊助。其實想捐款支持我的這個想法本身已經很令我鼓舞。再次感謝大家透過任何形式對我的支持！&lt;/p&gt;</summary><category term="站務"></category></entry><entry><title>StyleNote《2.2.0 版》</title><link href="http://nullium.com/hk/blog/stylenote-2.2.0-released/" rel="alternate"></link><updated>2014-11-30T00:03:00+08:00</updated><author><name>null</name></author><id>tag:nullium.com/hk,2014-11-30:blog/stylenote-2.2.0-released/</id><summary type="html">&lt;p&gt;StyleNote《2.2.0 版》發佈了！主要的更新項目是有很多用家希望加入的桌面小工具捲動(scrolling)功能，可在 Android 3.0 或以上使用。有了這個功能之後你就可以直接在你的桌面上瀏覽比較長的記事了。由於這個新功能的實現涉及到一些根本上的程式改動，它現暫以「試驗性功能」的形式出現，而預設是不啟用的。如果你想試用這個新功能，你可以到主設定頁的「桌面便條小工具設定」分類中找到啟用它的設定選項。(設定頁可在 StyleNote 主介面右上角的「三小點」選單中進入)&lt;/p&gt;
 &lt;p&gt;因為這個新功能現階段還是試驗性質，如果你在使用它時有遇到甚麼問題，請把這個功能暫時關掉及透過電郵或&lt;a href="http://forums.nullium.com/hk/index.php?board=2.0"&gt;用家論壇&lt;/a&gt;回報問題，好讓我確保大家也可以使用到這個功能。謝謝。在確定這個功能沒有問題後我就會把它列為正式功能 (預設啟用)。&lt;/p&gt;
 &lt;p&gt;最後付上完整的改版訊息：&lt;/p&gt;
 &lt;blockquote&gt;
