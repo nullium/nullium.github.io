@@ -1,5 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<feed xmlns="http://www.w3.org/2005/Atom"><title>nullium</title><link href="http://nullium.com/hk/" rel="alternate"></link><link href="http://nullium.com/hk/feeds/all.atom.xml" rel="self"></link><id>http://nullium.com/hk/</id><updated>2016-06-19T04:47:00+08:00</updated><entry><title>JustKana 發佈</title><link href="http://nullium.com/hk/blog/justkana-1.0.0-released/" rel="alternate"></link><updated>2016-06-19T04:47:00+08:00</updated><author><name>null</name></author><id>tag:nullium.com/hk,2016-06-19:blog/justkana-1.0.0-released/</id><summary type="html">&lt;p&gt;之前因為一些個人的問題，很久沒新作品了。不過我現在回來了！&lt;/p&gt;
+<feed xmlns="http://www.w3.org/2005/Atom"><title>nullium</title><link href="http://nullium.com/hk/" rel="alternate"></link><link href="http://nullium.com/hk/feeds/all.atom.xml" rel="self"></link><id>http://nullium.com/hk/</id><updated>2016-06-29T23:15:00+08:00</updated><entry><title>簡約相片框《1.5.0 版》</title><link href="http://nullium.com/hk/blog/nicesimplephotowidget-1.5.0-released/" rel="alternate"></link><updated>2016-06-29T23:15:00+08:00</updated><author><name>null</name></author><id>tag:nullium.com/hk,2016-06-29:blog/nicesimplephotowidget-1.5.0-released/</id><summary type="html">&lt;p&gt;《簡約相片框》 的 1.5.0 版更新發佈了。現在單按桌面上的小工具一下就可以轉換圖片了。同時也更新了內置的檔案瀏覽器，在新的 Android 系統上應該會更好用。接著我也會為 StyleNote 和 IsoPix 做做小型的更新，把它們的檔案瀏覽器也換一換吧。之後我大概就會集中為 StyleNote 來個大型更新/重製了。&lt;/p&gt;
+&lt;p&gt;完整的改版資訊如下：
+&lt;br/&gt;&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;《1.5.0 版》
+&lt;br/&gt;
+- 新功能：新增了「單按桌面小工具轉圖」的選項&lt;br /&gt;
+- 現在小工具會讀取及參考圖片中的 EXIF 參數 (部份相機會加入到相片中的設定參數)，並自動轉動相片的方向&lt;br /&gt;
+- 改善了內置的檔案瀏覽器，令檔案及資料夾的選取更方便及有更多的選擇&lt;br /&gt;
+- 提升了幻燈片模式的更新可靠性&lt;br /&gt;
+- 一些其他的小改進及改動  &lt;/p&gt;
+&lt;/blockquote&gt;</summary><category term="簡約相片框"></category></entry><entry><title>JustKana 發佈</title><link href="http://nullium.com/hk/blog/justkana-1.0.0-released/" rel="alternate"></link><updated>2016-06-19T04:47:00+08:00</updated><author><name>null</name></author><id>tag:nullium.com/hk,2016-06-19:blog/justkana-1.0.0-released/</id><summary type="html">&lt;p&gt;之前因為一些個人的問題，很久沒新作品了。不過我現在回來了！&lt;/p&gt;
 &lt;p&gt;為了學習及練習最新的 Android 軟件開發技術，之前兩個多月時間裏在工餘時都一直在做新 App。&lt;/p&gt;
 &lt;p&gt;今天終於完成了。做得比自己期望的慢，但從中讀到的學到的都很多。也頗開心的。&lt;/p&gt;
 &lt;p&gt;新 App 的名字叫 JustKana，是學習日語五十音 (就是日文的字母) 的軟件。其實我自己一直也很想學日文，主要是因為喜歡看日本動畫吧。&lt;/p&gt;
